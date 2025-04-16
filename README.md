@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**A# 💫 About Me:
+# 💫 About Me:
 **About Me**  <br>- **I'm currently working on** : Building blockchain-based fintech solutions and experimenting with machine learning models for predictive analytics.  <br>- **I'm looking to collaborate on** : Open-source projects in blockchain, fintech, or ML—especially DeFi apps or AI-driven financial tools.  <br>- **I'm looking for help with** : Optimizing smart contracts and scaling ML algorithms for real-world applications.  <br>- **I'm currently learning** : Advanced Solidity, TensorFlow, and the latest in decentralized finance (DeFi).  <br>- **Ask me about** : Blockchain, fintech trends, or how ML can revolutionize business processes!<br>- **Fun fact** : I once coded a crypto trading bot just to see if I could beat the market (spoiler: it’s harder than it looks)! 😄  <br><br>Feel free to reach out if you want to geek out about tech or collaborate on something cool! 
 
 
@@ -28,17 +25,3 @@
 [![](https://visitcount.itsvg.in/api?id=aytaknazarpour&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-Aytaknazarpour/Aytaknazarpour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
