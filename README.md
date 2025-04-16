@@ -1,14 +1,5 @@
-<h1 align="center">Hi, World!👀</h1>
 
-###
 
-<h3 align="left">About Aytak :</h3>
-
-###
-
-<p align="left">- I'm currently working on : Blockchain-based fintech solutions and ML models for predictive analytics and algo trading.<br>- I'm looking to collaborate on : Open-source blockchain, fintech, or ML projects, especially DeFi or AI-driven trading tools.  <br>- I'm looking for help with : Optimizing smart contracts and ML backtesting for trading strategies.  <br>- I'm currently learning : Advanced Solidity, TensorFlow, DeFi, and algo trading with ML backtests.  <br>- Ask me about : Blockchain, fintech trends, or how ML can revolutionize business processes!  <br>- Fun fact : I coded a crypto trading bot to test ML predictions, markets are tougher than code :)<br><br>Let's connect to code, trade, or build something epic!</p>
-
-###
 
 <h3 align="left">Tools :</h3>
 
@@ -61,7 +52,7 @@
 
 ---
 
-### About Me
+### About Aytak
 -  **I'm currently working on**: Blockchain-based fintech solutions and ML models for predictive analytics and algo trading.  
 -  **I'm looking to collaborate on**: Open-source projects in blockchain, fintech, or ML—especially DeFi or AI-driven trading tools.  
 -  **I'm looking for help with**: Optimizing smart contracts and ML backtesting for trading strategies.  
@@ -71,7 +62,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
