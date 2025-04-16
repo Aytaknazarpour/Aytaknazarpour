@@ -55,19 +55,19 @@
 ###
 
 <div align="center">
-  <h1>👋 Hi, I'm [Your Name]!</h1>
+  <h1>Hi, World!👀!</h1>
   <p>A passionate builder in <strong>blockchain</strong>, <strong>fintech</strong>, and <strong>machine learning</strong>, with a knack for algo trading! 🚀</p>
 </div>
 
 ---
 
-### 📖 About Me
-- 🔨 **I'm currently working on**: Blockchain-based fintech solutions and ML models for predictive analytics and algo trading.  
-- 🤝 **I'm looking to collaborate on**: Open-source projects in blockchain, fintech, or ML—especially DeFi or AI-driven trading tools.  
-- ❓ **I'm looking for help with**: Optimizing smart contracts and ML backtesting for trading strategies.  
-- 📚 **I'm currently learning**: Advanced Solidity, TensorFlow, DeFi, and algo trading with ML backtests.  
-- 💬 **Ask me about**: Blockchain, fintech, or how ML can supercharge trading!  
-- 😄 **Fun fact**: I coded a crypto trading bot to test ML predictions—markets are tougher than code!  
+### About Me
+-  **I'm currently working on**: Blockchain-based fintech solutions and ML models for predictive analytics and algo trading.  
+-  **I'm looking to collaborate on**: Open-source projects in blockchain, fintech, or ML—especially DeFi or AI-driven trading tools.  
+-  **I'm looking for help with**: Optimizing smart contracts and ML backtesting for trading strategies.  
+-  **I'm currently learning**: Advanced Solidity, TensorFlow, DeFi, and algo trading with ML backtests.  
+-  **Ask me about**: Blockchain, fintech trends, or how ML can revolutionize business processes!    
+-  **Fun fact**: I once coded a crypto trading bot just to see if I could beat the market (spoiler: it’s harder than it looks)!
 
 ---
 
