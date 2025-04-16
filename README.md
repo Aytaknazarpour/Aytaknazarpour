@@ -50,7 +50,7 @@
 
 ---
 
-### 📫 Connect with Me
+### Socials
 <div align="center">
   <a href="https://twitter.com/yourusername" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
