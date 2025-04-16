@@ -98,20 +98,6 @@
 ---
 
 <div align="center">
-  <p>💡 Let's build something epic together! Feel free to reach out or explore my repos! 🚀</p>
+  <p>💡 Let's connect to code, trade, or build something epic! </p>
 </div>
 
-<style>
-  h1, h3 {
-    color: #333;
-  }
-  p, li {
-    color: #555;
-  }
-  a {
-    text-decoration: none;
-  }
-  img {
-    margin: 0 5px;
-  }
-</style>
