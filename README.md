@@ -1,21 +1,4 @@
 
-
-<h3 align="left">Socials :</h3>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="55" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="55" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="55" height="40" alt="codepen logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="55" height="40" alt="medium logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="55" height="40" alt="facebook logo"  />
-</div>
-
-###
-
 <div align="center">
   <h1>Hi, World!👀!</h1>
   <p>A passionate builder in <strong>blockchain</strong>, <strong>fintech</strong>, and <strong>machine learning</strong>, with a knack for algo trading! </p>
@@ -71,7 +54,7 @@
     <img src="https://img.shields.io/badge/Bluesky-%230286FA.svg?style=flat&logo=bluesky&logoColor=white" alt="Bluesky" />
   </a>
   <a href="https://medium.com/@Aytaknazarpour" target="_blank">
-    <img src="https://img.shields.io/badge/medium-%230286FA.svg?style=flat&logo=medium&logoColor=white%22%20" alt="%22meduim" />
+    <img src="https://img.shields.io/badge/medium-%230286FA.svg?style=flat&logo=medium&logoColor=white" alt="meduim" />
   </a>
 ---
 
