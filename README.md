@@ -6,7 +6,7 @@
 
 ---
 
-### About Aytak
+### About Aytak:
 -  **I'm currently working on**: Blockchain-based fintech solutions and ML models for predictive analytics and algo trading.  
 -  **I'm looking to collaborate on**: Open-source projects in blockchain, fintech, or ML—especially DeFi or AI-driven trading tools.  
 -  **I'm looking for help with**: Optimizing smart contracts and ML backtesting for trading strategies.  
@@ -16,7 +16,7 @@
 
 ---
 
-###  Tech Stack
+###  Tech Stack:
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
@@ -33,7 +33,7 @@
 
 ---
 
-### Socials
+### Socials:
 <div align="center">
   <a href="https://linkedin.com/in/aytaknazarpour" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
