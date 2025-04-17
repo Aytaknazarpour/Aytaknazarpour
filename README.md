@@ -71,7 +71,10 @@
     <img src="https://img.shields.io/badge/Bluesky-%230286FA.svg?style=flat&logo=bluesky&logoColor=white" alt="Bluesky" />
   </a>
   <a href="https://medium.com/@Aytaknazarpour" target="_blank">
+    <img src="https://img.shields.io/badge/medium-%230286FA.svg?style=flat&logo=medium&logoColor=white%22%20" alt="%22meduim" />
+  </a>
 ---
+
 
 <div align="center">
   <p>💡 Let's connect to code, trade, or build something epic! </p>
