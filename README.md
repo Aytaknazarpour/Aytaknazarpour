@@ -56,10 +56,11 @@
   <a href="https://medium.com/@Aytaknazarpour" target="_blank">
     <img src="https://img.shields.io/badge/medium-%230286FA.svg?style=flat&logo=medium&logoColor=white" alt="meduim" />
   </a>
----
+
 
 
 <div align="center">
+  
   <p>💡 Let's connect to code, trade, or build something epic! </p>
 </div>
 
