@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>Hi, World!👀!</h1>
+  <h1>Hi, World! It's Aytak👀</h1>
   <p>A passionate builder in <strong>blockchain</strong>, <strong>fintech</strong>, and <strong>machine learning</strong>, with a knack for algo trading! </p>
 </div>
 
