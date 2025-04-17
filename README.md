@@ -28,7 +28,7 @@
 ![Vue](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat&logo=vue.js&logoColor=%234FC08D)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-%23363636.svg?style=flat&logo=ethers&logoColor=white)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)
+
 
 ---
 
